@@ -2,7 +2,7 @@
 
 ---
 
-### 🔭 What I'm working on
+### What I'm working on
 
 | Project | What it is |
 | --- | --- |
@@ -10,7 +10,7 @@
 | **[excel-teacher](https://github.com/squidhacks/excel-teacher)** | Learn Excel hands-on: lessons, shortcuts, an interactive practice grid with a real formula engine, quizzes and progress tracking. Entirely client-side. |
 | **[shuffle-game](https://github.com/squidhacks/shuffle-game)** | A sliding puzzle game built with Flask — my CS50x final project. |
 
-### 🧰 Tools I reach for
+### Languages I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
