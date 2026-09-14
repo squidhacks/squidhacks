@@ -1,14 +1,5 @@
 <h1 align="center">Hi, I'm Matthew </h1>
 
-<p align="center">
-  I build small, useful things — dashboards, learning tools, and the odd game.
-</p>
-
-<p align="center">
-  <a href="https://github.com/squidhacks?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/repos-6-4c1?style=flat-square&logo=github"></a>
-  <a href="https://github.com/squidhacks?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/squidhacks?style=flat-square&label=followers&color=4c1"></a>
-</p>
-
 ---
 
 ### 🔭 What I'm working on
