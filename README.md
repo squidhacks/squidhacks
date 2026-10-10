@@ -2,12 +2,12 @@
 
 ---
 
-### What I'm working on
+### What I've been working on
 
 | Project | What it is |
 | --- | --- |
-| **[dashboard-event-compiler](https://github.com/squidhacks/dashboard-event-compiler)** | A local dashboard and the scheduled agent that feeds it — sweeps club Instagram accounts and official university sources for events and deadlines, compiles them to JSON, and renders them alongside live weather, calendar, email, news and markets. |
-| **[excel-teacher](https://github.com/squidhacks/excel-teacher)** | Learn Excel hands-on: lessons, shortcuts, an interactive practice grid with a real formula engine, quizzes and progress tracking. Entirely client-side. |
+| **[dashboard-event-compiler](https://github.com/squidhacks/dashboard-event-compiler)** | A local dashboard and the scheduled agent that feeds it — sweeps chosen club/extracurricular Instagram accounts and official university sources for events and deadlines, compiles them to JSON, and renders them alongside live weather, calendar, email, news and markets. Pushes to Google Calendar as well. |
+| **[excel-teacher](https://github.com/squidhacks/excel-teacher)** | Creating an environment where you can learn Excel hands-on: lessons, shortcuts, an interactive practice grid with a real formula engine, quizzes, and progress tracking. |
 | **[shuffle-game](https://github.com/squidhacks/shuffle-game)** | A sliding puzzle game built with Flask — my CS50x final project. |
 
 ### Languages I use
