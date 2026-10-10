@@ -29,12 +29,13 @@
 
 ### 🌱 Currently
 
-- Tinkering with small automation agents that do boring lookups so I don't have to
-- Chipping away at Advent of Code when the season comes around
+- Tinkering with small automation agents
+- Larping Advent of Code
 
 ### 📫 Reach me
 
 - GitHub: [@squidhacks](https://github.com/squidhacks)
+- Email: matthew@atgreen.org
 
 <!--
   Optional extras to fill in when you want them:
