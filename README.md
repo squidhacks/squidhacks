@@ -8,7 +8,7 @@
 | --- | --- |
 | **[dashboard-event-compiler](https://github.com/squidhacks/dashboard-event-compiler)** | A local dashboard and the scheduled agent that feeds it — sweeps chosen club/extracurricular Instagram accounts and official university sources for events and deadlines, compiles them to JSON, and renders them alongside live weather, calendar, email, news and markets. Pushes to Google Calendar as well. |
 | **[excel-teacher](https://github.com/squidhacks/excel-teacher)** | Creating an environment where you can learn Excel hands-on: lessons, shortcuts, an interactive practice grid with a real formula engine, quizzes, and progress tracking. |
-| **[Digital-Media-Autopen](https://github.com/squidhacks/Digital-Media-Autopen)** | A Node.js workflow for filling in and signing PDFs without printing and scanning — finds the blank lines in a document, then writes your name, a handwriting-style signature and the date onto them from a short per-document job file. |
+| **[digital-media-autopen](https://github.com/squidhacks/Digital-Media-Autopen)** | A Node.js workflow for filling in and signing PDFs without printing and scanning — finds the blank lines in a document, then writes your name, a handwriting-style signature and the date onto them from a short per-document job file. |
 | **[shuffle-game](https://github.com/squidhacks/shuffle-game)** | A sliding puzzle game built with Flask — my CS50x final project. |
 
 ### Languages I use
